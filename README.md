@@ -6,7 +6,7 @@
 - Technical Interests: Exploring deep integrations with LangGraph, Model Context Protocol (MCP), and enterprise LLM architectures.
 - Collaboration Interests: Open-source AI tooling, voice AI integration systems, and autonomous workflow automation projects.
 - Core Technical Stack: n8n, OpenAI API, ElevenLabs, Twilio, and B2B lead generation pipelines.
-- Professional Contact: anupommojumder950@gmail.com | [LinkedIn](https://www.linkedin.com/in/anupom-mojumder/)
+- Professional Contact: anupommojumdernew@gmail.com
 
 ---
 
